@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99badf76-a4d0-4b17-a383-2985fb29621a" name="변경" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Parent.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +49,12 @@
     "onboarding.tips.debug.path": "C:/Users/leech/OneDrive/바탕 화면/java_files/javamidterms/src/Main.java",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Car.executor": "Run",
+    "애플리케이션.Cat.executor": "Run",
     "애플리케이션.Child.executor": "Run",
     "애플리케이션.Main.executor": "Run",
+    "애플리케이션.Rectangle.executor": "Run",
     "애플리케이션.SafeArrayTest.executor": "Run",
+    "애플리케이션.ShapeTest.executor": "Run",
     "애플리케이션.Tic_Tac_Toe.executor": "Run"
   }
 }]]></component>
@@ -74,7 +76,7 @@
       <workItem from="1713441140976" duration="236000" />
       <workItem from="1713441397081" duration="10666000" />
       <workItem from="1713452771426" duration="1149000" />
-      <workItem from="1713503486728" duration="7181000" />
+      <workItem from="1713503486728" duration="12702000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -92,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713452589125</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first">
+      <option name="closed" value="true" />
+      <created>1713511651023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713511651024</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
