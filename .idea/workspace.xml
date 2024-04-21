@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99badf76-a4d0-4b17-a383-2985fb29621a" name="변경" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HankookTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KumhoTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SmartPhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,29 +37,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/leech/OneDrive/바탕 화면/java_files/javamidterms/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Car.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Cat.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Child.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.SafeArrayTest.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.ShapeTest.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Tic_Tac_Toe.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/leech/OneDrive/바탕 화면/java_files/javamidterms/src/Main.java",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Car.executor": "Run",
+    "애플리케이션.Cat.executor": "Run",
+    "애플리케이션.Child.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.Rectangle.executor": "Run",
+    "애플리케이션.SafeArrayTest.executor": "Run",
+    "애플리케이션.ShapeTest.executor": "Run",
+    "애플리케이션.SmartPhoneExample.executor": "Run",
+    "애플리케이션.Tic_Tac_Toe.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +82,7 @@
       <workItem from="1713503486728" duration="12702000" />
       <workItem from="1713624551572" duration="61000" />
       <workItem from="1713626539112" duration="979000" />
-      <workItem from="1713679568410" duration="1007000" />
+      <workItem from="1713679568410" duration="3491000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -119,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713627268292</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first">
+      <option name="closed" value="true" />
+      <created>1713681112211</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713681112211</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
